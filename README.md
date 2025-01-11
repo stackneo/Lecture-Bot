@@ -1,7 +1,7 @@
 
-# Reza-Bot
+# Lecture-Bot
 
-This is my first  discord bot project designed for fun and to help Uni of Leicester students out with module material.
+This is my first discord bot project designed for fun and to help Uni of Leicester students out with module material.
 
 This is very much a WIP bot right now. Check roadmap for planned future features/expand on current features.
 
@@ -17,20 +17,13 @@ This is very much a WIP bot right now. Check roadmap for planned future features
 
 ## Screenshots
 
-![App Screenshot](https://small.fileditchstuff.me/s6/cKFFoJALGdrugNATUuW.png)
-
-![App Screenshot](https://small.fileditchstuff.me/s6/ubVtieZboIXMoEbGqTJS.png)
-
-![App Screenshot](https://small.fileditchstuff.me/s6/XTDannUIqRiUWkvAyfim.png)
-
-
 ## Installation
 
 Clone the respository
 
 ```bash
-  git clone https://github.com/kaeini/Reza-Bot
-  cd Reza-Bot
+  git clone https://github.com/kaeini/Lecture-Bot
+  cd Lecture-Bot
 ```
 
 Install requirements.txt
